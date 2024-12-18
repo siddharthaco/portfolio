@@ -56,6 +56,7 @@ a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
+  font-size:1.8rem;
   text-decoration-color: rgb(181, 181, 181);
 }
 
@@ -183,7 +184,7 @@ section {
 }
 
 .section__text p {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .section__text__p1 {
@@ -191,7 +192,7 @@ section {
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
 }
 
